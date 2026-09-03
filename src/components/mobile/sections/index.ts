@@ -1,0 +1,8 @@
+export { AboutApp } from "./AboutApp";
+export { ProjectsApp } from "./ProjectsApp";
+export { SkillsApp } from "./SkillsApp";
+export { ExperienceApp } from "./ExperienceApp";
+export { MusicApp } from "./MusicApp";
+export { TerminalApp } from "./TerminalApp";
+export { NotesApp } from "./NotesApp";
+export { PhotosApp } from "./PhotosApp";

@@ -1,0 +1,8 @@
+export { AboutWindow } from "./AboutWindow";
+export { ProjectsWindow } from "./ProjectsWindow";
+export { SkillsWindow } from "./SkillsWindow";
+export { ExperienceWindow } from "./ExperienceWindow";
+export { MusicWindow } from "./MusicWindow";
+export { TerminalWindow } from "./TerminalWindow";
+export { NotesWindow } from "./NotesWindow";
+export { PhotosWindow } from "./PhotosWindow";
