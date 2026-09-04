@@ -2,9 +2,9 @@ import { Skill } from "@/types/portfolio";
 
 export const skills: Skill[] = [
   // Languages
-  { name: "TypeScript", category: "Languages" },
-  { name: "JavaScript", category: "Languages" },
-  { name: "HTML/CSS", category: "Languages" },
+  { name: "Golang", category: "Languages" },
+  { name: "Rust", category: "Languages" },
+  { name: "Python", category: "Languages" },
   
   // Frameworks & Libraries
   { name: "React", category: "Frameworks & Libraries" },
